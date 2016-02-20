@@ -13,9 +13,10 @@ An Internet Connection (512k+ Broadband is <i><b>highly</b></i> recommended for 
 A copy of GTA San Andreas for PC - V1.0 [NOT V1.01, V2.0, V3.0]</p>
 
 <h1>Usefull Information</h3>
-<a href="http://sa-mp.com">SAMP Website</a>< /br>
-<a href="https://wiki.sa-mp.com/"SAMP Wiki</a>< /br>
-<a href="https://forum.sa-mp.com"SAMP Forum</a>< /br>
+Before you know samp, you must know this website
+<a href="http://sa-mp.com">SAMP Website</a>
+<a href="https://wiki.sa-mp.com/"SAMP Wiki</a>
+<a href="https://forum.sa-mp.com"SAMP Forum</a>
 
 <h1>License</h1>
 
