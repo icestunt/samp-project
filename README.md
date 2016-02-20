@@ -1,4 +1,4 @@
-<h2>Introduction</h2>
+<h1>Introduction</h1>
 
 <b> What is SA:MP? </b>
 <p>San Andreas Multiplayer (SA:MP) is a modification for Grand Theft Auto: San Andreas which turns it into a multiplayer game. You can play over the internet (or LAN) with up to 500 other people. You need the original Grand Theft Auto: San Andreas PC game to play San Andreas Multiplayer.
@@ -12,7 +12,12 @@
 An Internet Connection (512k+ Broadband is <i><b>highly</b></i> recommended for smooth online play)
 A copy of GTA San Andreas for PC - V1.0 [NOT V1.01, V2.0, V3.0]</p>
 
-<h2>License</h2>
+<h1>Usefull Information</h3>
+<a href="http://sa-mp.com">SAMP Website</a>< /br>
+<a href="https://wiki.sa-mp.com/"SAMP Wiki</a>< /br>
+<a href="https://forum.sa-mp.com"SAMP Forum</a>< /br>
+
+<h1>License</h1>
 
 © Copyright 2016 <a href="https://www.facebook.com/" target="_blank">Agus Purwantoro.</a> All Right Reserved
 
