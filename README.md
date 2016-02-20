@@ -18,7 +18,7 @@ Before you know samp, you must know this <a href="http://sa-mp.com" target="_bla
 
 <h1>License</h1>
 
-© Copyright 2016 <a href="https://www.facebook.com/" target="_blank">Agus Purwantoro.</a> All Right Reserved
+© Copyright 2016 <a href="https://www.facebook.com/avengeda24" target="_blank">Agus Purwantoro.</a> All Right Reserved
 
 This work under a <a href="http://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GNU General Public License 3.0</a>
 
